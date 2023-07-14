@@ -33,6 +33,7 @@ pub fn test_file_to_exercise() -> Exercise {
             (_, _) => (),
         }
     }
+
     exercise
 }
 
